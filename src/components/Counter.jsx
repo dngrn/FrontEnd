@@ -25,6 +25,7 @@ function Counter() {
             <button onClick={() =>
                 alert("you clicked the wrong button")
             } >add</button>
+            <button>Submit</button>
         </div>
     )
 }
